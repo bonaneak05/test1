@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x7094Dd0E8cdAE65463c137134294927eB5Ad0361",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/token/0x7094dd0e8cdae65463c137134294927eb5ad0361",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Apple Cartoon NFT",
+  "SYMBOL": "ACN ",
+  "MAX_SUPPLY": 5000,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/apple-cartoon-nft",
+  "SHOW_BACKGROUND": true
+}
